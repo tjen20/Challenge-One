@@ -8,7 +8,7 @@ A website with tools and ideas for developing influencial websites and marketing
 * CSS
 
 ## Website
-https:// .github.io/MarketingApp/
+https://tjen20.github.io/MarketingApp/
 
 ## Contribution
 Made with ❤️ by Teri Jensen
