@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER & NAV START */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,11 @@ body {
     font-size: 16px;
 }
 
+/* HEADER & NAV END */
+
+
+/* HERO START */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +65,10 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* HERE END */
+
+/* MAIN SECTION START */
 
 .float-left {
     float: left;
@@ -75,7 +86,7 @@ body {
     margin-left: 20px;
 }
 
-.content div {
+.content main {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,6 +104,11 @@ body {
     font-size: 36px;
 }
 
+/* MAIN SECTION END */
+
+
+/* ASIDE SECTION START */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +120,7 @@ body {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefits aside  {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -120,6 +136,11 @@ h3 {
     max-width: 150px;
 }
 
+/* ASIDE SECTION END */
+
+
+/* FOOTER START */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -130,3 +151,5 @@ h3 {
 .footer h4 {
     font-size: 20px;
 }
+
+/* FOOTER END */
